@@ -1,4 +1,4 @@
-### [VS CODE DOCS FOR GITHUB}(https://code.visualstudio.com/docs/sourcecontrol/overview)
+### [VS CODE DOCS FOR GITHUB](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
 ### [YouTube Playlist](https://www.youtube.com/watch?v=3o_01F04bZ4&list=PLj6YeMhvp2S7abEHqkUPRkCSt4N2wpTwD&ab_channel=VisualStudioCode)
 
